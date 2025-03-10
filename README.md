@@ -9,11 +9,11 @@ With a background in copywriting and project management, I bring a unique perspe
 
 ## 🛠️ I Use
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-883333?style=for-the-badge&logo=composer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-883333?style=for-the-badge&logo=composer&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-004B87?style=for-the-badge&logo=phpunit&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-FFD700?style=for-the-badge&logo=generic&logoColor=black)
 ![SOLID](https://img.shields.io/badge/SOLID-FFD700?style=for-the-badge&logo=generic&logoColor=black)
