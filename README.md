@@ -5,7 +5,9 @@ A Full-stack developer eager to build elegant solutions to complex problems.
 </div>
 
 ## About Me
-With a background in copywriting and project management, I bring a unique perspective to software development. I find joy in optimizing backend processes and designing intuitive user experiences that make a difference. As a continuous learner, I'm eager to join a team where my analytical approach and creativity can contribute immediately while I develop my technical expertise further.
+With a background in copywriting and project management, I bring a unique perspective to software development. I find joy in optimizing backend processes and designing intuitive user experiences that make a difference. 
+
+As a continuous learner, I'm eager to join a team where my analytical approach and creativity can contribute immediately while I develop my technical expertise further.
 
 ## 🛠️ I Use
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
