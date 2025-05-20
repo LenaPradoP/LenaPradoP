@@ -41,5 +41,15 @@ I'm passionate about continuous learning and seeking a collaborative environment
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+## 🔄 How My Previous Experience Enhances My Development Work
+
+My background in information architecture and digital project management gives me unique advantages as a developer:
+
+- **Structured Thinking**: I approach code architecture with the same systematic methodology I used to organize complex content
+- **User-Centered Focus**: I develop with the end user's experience always in mind, not just technical requirements
+- **Team Coordination**: I bridge communication between technical and non-technical team members
+- **Visual Organization**: My experience in creative direction helps me create intuitive interfaces and data visualizations
+
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lenaprado)
